@@ -1,0 +1,22 @@
+{
+
+    "site":     "http://vostbur.github.com/",
+    "title":    "Узнать новое",
+    "author":   "Алексей Рубцов",
+
+	"source": "source",
+	"draft": "draft",
+	"output": "output",
+	"nav_pages": "static",
+
+    "templates": {
+    	"folder": "templates/",
+		"article": "article.html",
+		"archive": "archive.html"
+    },
+
+    "feed": "feed",
+    "disqus": "vostburgithubcom",
+
+    "port": 8000
+}
