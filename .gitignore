@@ -166,7 +166,7 @@ pip-log.txt
 ## My
 #############
 
-dump.db
+dump.json
 draft/
 output/*.html
 output/feed

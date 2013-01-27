@@ -5,8 +5,7 @@
     "author":   "Алексей Рубцов",
 
 	"source": "source",
-	"draft": "draft",
-	"output": "output",
+	"output": "C:\\Users\\admin\\Documents\\GitHub\\vostbur.github.com",
 	"nav_pages": "static",
 
     "templates": {
@@ -18,5 +17,6 @@
     "feed": "feed",
     "disqus": "vostburgithubcom",
 
+    "editor": "sublime_text.exe %s",
     "port": 8000
 }

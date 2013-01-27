@@ -3,7 +3,7 @@
 {% block content %}
 <ul>
     {% for key, value in content.items() %}
-        <li><a href="{{ key }}">{{ value['title'] }}</a></li>
+        <li><a href="{{ key }}.html">{{ value['title'] }}</a></li>
     {% endfor %}
 </ul>
 {% endblock %}
